@@ -13,3 +13,20 @@ Directory's structure:
 Videos are stored in different folders, one for each person, consisting of Person1, Person2, Person3, Person4, Person5 and Person6. Inside each folder there are 78 files being 3 for each alphabet letter. File name is given by letter followed by 1, 2 or 3 between brackets. This number represents the shot. For example: "a (1).mov" means shape "a" first shot. 
 
 Frames are stored into different zip files, one for each person. The file name structure is "Person" + person's number + shape + shot number + frame number, separated by hyphen (-). For example, "Person1-A-1-1.jpg" refers to Person 1, shape A, first shot, first frame. 
+
+Occurence by shape:
+A | 2107 | H 	  | 2349 | O 	  | 2267 | V 	  | 2312 
+B | 2325 | I 	  | 2273 | P 	  | 2358 | W 	  | 2417 
+C | 2278 | J 	  | 2055 | Q 	  | 2426 | X 	  | 1443 
+D | 2347 | K 	  | 2203 | R 	  | 2249 | Y 	  | 2231 
+E | 2442 | L 	  | 2273 | S 	  | 2246 | Z 	  | 1928 
+F | 2231 | M 	  | 2168 | T 	  | 2422 | 
+G | 2373 | N 	  | 2051 | U 	  | 2340 | 
+
+Ocuurence by person:
+Person 1 = 8864 
+Person 2 = 9971
+Person 3 = 9320 
+Person 4 = 9551
+Person 5 = 11478
+Person 6 = 8930
